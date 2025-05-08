@@ -3,16 +3,7 @@
 ## Overview
 The **Voting Survey** project provides a RESTful API for managing user registrations, logins, constituencies, and administrative functionalities. It allows users to register, log in, and manage voting-related data efficiently.
 
-## Author
-**Md Mohsin Haider**  
-Java Full Stack Developer
 
-## **📌 Features & Working of the Project**
-
-### **🔹 User (Voter) Functionalities**
-1️⃣ **User Registration & Login:**  
-   - New users must register with **Name, Email, Password, and Constituency**.  
-   - If already registered, users can log in and access their dashboard.  
 
 2️⃣ **User Dashboard:**  
    - **User Details Section:** Displays the voter’s profile and constituency.  
@@ -87,9 +78,9 @@ Java Full Stack Developer
 ```json
 {
   "voterId": 99887766554433,
-  "name": "Md Mohsin Haider",
-  "email": "mdmohsinhaider@gamil.com",
-  "password": "xyz123",
+  "name": "MO Masood Ansari",
+  "email": "masoodansari1997@gamil.com",
+  "password": "ansari123",
   "age": 7,
   "gender": "Male",
   "address": "Delhi",
@@ -139,7 +130,7 @@ Java Full Stack Developer
 1. Fork the repository from GitHub.
 2. Clone your forked repository:
    ```sh
-   git clone https://github.com/MdMohsinHaider/voting-survey-spring-boot-backend.git
+   git clone https://github.com/Mohammed-Masood-Ansari/Election-Survey-Spring-Boot-Backend-Project
    ```
 3. Navigate to the project directory:
    ```sh
@@ -186,8 +177,4 @@ Java Full Stack Developer
 │── pom.xml
 │── README.md
 ```
-
-## **👨‍💻 Developed By**
-This project was developed by **Md Mohsin Haider** as part of Java Full Stack Development using **Spring Boot (Backend)** and **React.js (Frontend)**.
-
 
